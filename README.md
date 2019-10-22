@@ -9,6 +9,10 @@
   - a
   - list
 
-  *BOLD* text
+  **BOLD** text
 
   _italicized_ text
+  
+  Rule #1: Tabs not spaces
+  rule #2: Don't trust the preview!!!
+  
