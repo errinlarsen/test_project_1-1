@@ -13,6 +13,7 @@
 
   _italicized_ text
   
-  Rule #1: Tabs not spaces
-  rule #2: Don't trust the preview!!!
+  - Rule #1: Tabs not spaces
+  - rule #2: Don't trust the preview!!!
+  - space is important.
   
